@@ -6,6 +6,8 @@
 
   # branch short name
   bs = !"git rev-parse --abbrev-ref HEAD"
+  
+  yolo = !git commit -m \"$(curl -s whatthecommit.com/index.txt)\"
 
   # View abbreviated SHA, description, and history graph of the latest 20 commits
   # l = log --pretty=oneline -n 20 --graph --abbrev-commit
