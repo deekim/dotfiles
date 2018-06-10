@@ -88,6 +88,9 @@
 #    fi \
 #  }; f"
 
+[gui]
+  gcwarning = false
+
 [apply]
 
   # Detect whitespace errors when applying a patch
