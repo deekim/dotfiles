@@ -1,0 +1,12 @@
+# go function
+go() {
+  if [ -f "$1" ]; then
+    $EDITOR "$1";
+  elif [ -d "$1" ]; then
+		cd "$1" && clear && ls
+	elif [ "" = "$1" ]; then
+		cd
+	else
+		j "$1"
+	fi
+}
