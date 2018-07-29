@@ -1,0 +1,3 @@
+pbsort() {
+  pbpaste | sort | pbcopy
+}
