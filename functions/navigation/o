@@ -1,5 +1,5 @@
 # `o` with no arguments opens the current directory, 
-# otherwise opens the given location
+# otherwise it opens the specified location
 o() {
 	if [ $# -eq 0 ]; then
 		open .;
