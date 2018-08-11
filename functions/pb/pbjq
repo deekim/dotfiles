@@ -1,0 +1,3 @@
+pbjq() {
+	pbpaste | jq "$@" | pbcopy
+}
