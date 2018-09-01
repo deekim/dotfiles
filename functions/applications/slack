@@ -1,0 +1,5 @@
+slack() {
+  echo "⌘ + alt + i → open developer tools";
+  export SLACK_DEVELOPER_MENU=true;
+  open -a /Applications/Slack.app;
+}
