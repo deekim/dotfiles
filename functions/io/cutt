@@ -1,0 +1,4 @@
+# cut using tab delimeter, getting the nth field
+cutt() {
+  cut -d$'\t' -f"$@"
+}
