@@ -9,6 +9,10 @@
   
   yolo = !git commit -m \"$(curl -s whatthecommit.com/index.txt)\"
   
+  # Find the common ancestor of HEAD and master and show a diff
+  # from that to HEAD
+  dm = "!git diff $(git merge-base master HEAD)"
+  
   # rebase master (interactive) with autosquash
   rbm = !"git rebase master -i --autosquash"
 
