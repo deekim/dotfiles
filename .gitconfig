@@ -7,6 +7,8 @@
   # branch short name
   bs = !"git rev-parse --abbrev-ref HEAD"
   
+  remote-diff = !"git diff origin/$(git bs)"
+  
   yolo = !git commit -m \"$(curl -s whatthecommit.com/index.txt)\"
   
   # Find the common ancestor of HEAD and master and show a diff
