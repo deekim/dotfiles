@@ -1,3 +1,0 @@
-brewfile-update() {
-  brew bundle dump --file=~/.brewfile --force
-}
