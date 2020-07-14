@@ -78,6 +78,9 @@
 
   # List contributors with number of commits
   contributors = shortlog --summary --numbered
+  
+  # Generate .gitignore file
+  ignore = "!f() { curl -sL https://www.toptal.com/developers/gitignore/api/$@ ;}; f"
 
   # Merge GitHub pull request on top of the current branch or,
   # if a branch name is specified, on top of the specified branch
