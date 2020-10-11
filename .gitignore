@@ -12,3 +12,6 @@ Desktop.ini
 # IntelliJ
 *.iml
 .idea
+
+# Github Codespaces
+pythonenv3.8
