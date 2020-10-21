@@ -1,0 +1,36 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.import.gradle.enabled": true,
+    "editor.minimap.enabled": false,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "gradleLang.maxNumberOfProblems": 1000,
+    "gradleLang.trace.server": "verbose",
+    "codespaces.accountProvider": "GitHub",
+    "java.project.importOnFirstTimeStartup": "automatic",
+    "quarkus.tools.alwaysShowWelcomePage": false,
+    "microprofile.alwaysShowOverview": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "rsp-ui.enableStartServerOnActivation": [
+        {
+            "id": "redhat.vscode-community-server-connector",
+            "name": "Community Server Connector",
+            "startOnActivation": true
+        }
+    ],
+    "workbench.iconTheme": "Monokai Classic Icons",
+    "workbench.colorTheme": "BeardedTheme Solarized Light",
+    "editor.scrollBeyondLastLine": false,
+    "window.zoomLevel": 1,
+    "java.configuration.runtimes": [
+    {
+        "name": "JavaSE-1.8",
+        "path": "/Library/Java/JavaVirtualMachines/jdk1.8.0_261.jdk/Contents/Home",
+    },
+    ]
+}
