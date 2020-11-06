@@ -45,6 +45,13 @@ defaults write -g com.apple.swipescrolldirection -bool NO
 defaults write com.apple.driver.AppleBluetoothMultitouch.mouse MouseButtonMode TwoButton
 
 ###############################################################################
+# Dock                                                                        #
+###############################################################################
+
+defaults write com.apple.dock orientation right
+
+
+###############################################################################
 # Kill/restart affected applications                                          #
 ###############################################################################
 
