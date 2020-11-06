@@ -52,6 +52,7 @@ defaults write com.apple.dock orientation right
 defaults write com.apple.dock autohide -bool true
 defaults write com.apple.dock no-bouncing -bool true
 defaults write com.apple.dock autohide-delay -float 0.0001
+defaults write com.apple.dock showhidden -bool true
 
 ###############################################################################
 # Kill/restart affected applications                                          #
