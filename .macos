@@ -50,6 +50,8 @@ defaults write com.apple.driver.AppleBluetoothMultitouch.mouse MouseButtonMode T
 
 defaults write com.apple.dock orientation right
 defaults write com.apple.dock autohide -bool true
+defaults write com.apple.dock no-bouncing -bool true
+defaults write com.apple.dock autohide-delay -float 0.0001
 
 ###############################################################################
 # Kill/restart affected applications                                          #
