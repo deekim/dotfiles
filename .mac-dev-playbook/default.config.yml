@@ -75,6 +75,7 @@ homebrew_installed_packages:
 homebrew_taps:
   - homebrew/core
   - homebrew/cask
+  - homebrew/cask-drivers
   - homebrew/bundle
   - homebrew/services
 
@@ -102,6 +103,7 @@ homebrew_cask_apps:
   - alfred
   - bartender
   - blue-sherpa
+  - logitech-g-hub
   - iterm2
   - karabiner-elements
   - spotify
