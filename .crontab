@@ -1,0 +1,15 @@
+# .crontab
+
+# usage: crontab ~/.crontab
+
+# *     *     *   *    *        command to be executed
+# -     -     -   -    -
+# |     |     |   |    |
+# |     |     |   |    +------- day of week  (0 - 6) (Sunday = 0)
+# |     |     |   +------------ month        (1 - 12)
+# |     |     +---------------- day of month (1 - 31)
+# |     +---------------------- hour         (0 - 23)
+# +---------------------------- minute       (0 - 59)
+
+# Test
+# * * * * * echo 'Testing crontab' > ~/Desktop/test.txt
