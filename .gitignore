@@ -89,3 +89,4 @@ Desktop.ini
 # Github Codespaces
 pythonenv3.8
 .factorypath
+.venv/
