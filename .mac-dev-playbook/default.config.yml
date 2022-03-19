@@ -119,6 +119,7 @@ homebrew_cask_apps:
   - postman
   - virtualbox
   - xquartz
+  - obsidian
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
