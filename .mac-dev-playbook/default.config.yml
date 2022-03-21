@@ -71,6 +71,7 @@ homebrew_installed_packages:
   - zplug
   - zshrc
   - zsh-completions
+  - php
 
 homebrew_taps:
   - homebrew/core
