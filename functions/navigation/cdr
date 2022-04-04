@@ -1,0 +1,4 @@
+# Changes the current working directory to root git directory
+cdr() {
+	cd "$(git root)";
+}
