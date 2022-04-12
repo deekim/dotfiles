@@ -116,7 +116,7 @@ homebrew_cask_apps:
   - gpg-suite
   - kap
   - mactex
-  - postman
+  - insomnia
   - virtualbox
   - xquartz
   - obsidian
