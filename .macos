@@ -58,6 +58,12 @@ defaults write com.apple.dock size-immutable -bool true
 defaults write com.apple.dock launchanim -bool false
 
 ###############################################################################
+# Desktop                                                                     #
+###############################################################################
+
+defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool false
+
+###############################################################################
 # Hot Corners (disable)                                                       #
 ###############################################################################
 
