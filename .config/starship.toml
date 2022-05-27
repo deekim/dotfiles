@@ -8,3 +8,6 @@ error_symbol = "[✗](bold bright-red) "
 disabled = false
 format = 'at [$time]($style) '
 time_format = "%T"
+
+[aws.region_aliases]
+us-west-2 = "nuna"
