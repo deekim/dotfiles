@@ -1,5 +1,7 @@
 " Use the Solarized Dark theme
+syntax on
 set background=dark
+let g:solarized_termtrans = 1
 colorscheme solarized
 
 " Make Vim more useful
