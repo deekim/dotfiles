@@ -58,6 +58,15 @@ defaults write com.apple.dock size-immutable -bool true
 defaults write com.apple.dock launchanim -bool false
 
 ###############################################################################
+# Hot Corners (disable)                                                       #
+###############################################################################
+
+defaults write com.apple.dock wvous-tr-corner -int 0
+defaults write com.apple.dock wvous-tl-corner -int 0
+defaults write com.apple.dock wvous-bl-corner -int 0
+defaults write com.apple.dock wvous-br-corner -int 0
+
+###############################################################################
 # Kill/restart affected applications                                          #
 ###############################################################################
 
