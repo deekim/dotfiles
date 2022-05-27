@@ -1,1 +1,10 @@
+right_format = """$time"""
 
+[character]
+success_symbol = "[➜](bold bright-green)"
+error_symbol = "[✗](bold bright-red) "
+
+[time]
+disabled = false
+format = 'at [$time]($style) '
+time_format = "%T"
