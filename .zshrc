@@ -54,7 +54,7 @@ EDITOR=vim
 
 # oh-my-zsh
 
-plugins=(git brew history kubectl history-substring-search)
+plugins=(git brew history kubectl history-substring-search last-working-dir)
 
 # starship
 
