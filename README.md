@@ -32,7 +32,7 @@
 
 ### [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 
-<img src="https://ohmyzsh.s3.amazonaws.com/omz-ansi-github.png" width="500" height="304">
+<img src="https://ohmyzsh.s3.amazonaws.com/omz-ansi-github.png" width="200" height="120">
 
 #### Installation
 
