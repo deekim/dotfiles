@@ -30,6 +30,18 @@
 
 ## `zsh`
 
-<img src="https://raw.githubusercontent.com/starship/starship/master/media/icon.png" width="72" height="72">
+### `ohmyzsh`
 
-[Starship](https://starship.rs/)
+<img src="https://ohmyzsh.s3.amazonaws.com/omz-ansi-github.png" width="72" height="72">
+
+[ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+
+#### Installation
+
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+### [Starship](https://starship.rs/)
+
+<img src="https://raw.githubusercontent.com/starship/starship/master/media/icon.png" width="72" height="72">
