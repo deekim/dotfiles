@@ -30,11 +30,9 @@
 
 ## `zsh`
 
-### `ohmyzsh`
+### [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 
-<img src="https://ohmyzsh.s3.amazonaws.com/omz-ansi-github.png" width="72" height="72">
-
-[ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+<img src="https://ohmyzsh.s3.amazonaws.com/omz-ansi-github.png" width="500" height="304">
 
 #### Installation
 
