@@ -26,6 +26,8 @@
 
 `ansible-playbook main.yml --ask-become-pass`
 
+---
+
 ## `zsh`
 
 <img src="https://raw.githubusercontent.com/starship/starship/master/media/icon.png" width="72" height="72">
