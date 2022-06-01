@@ -54,8 +54,16 @@ EDITOR=vim
 
 # oh-my-zsh
 
+export ZSH="$HOME/.oh-my-zsh"
+
 plugins=(git brew history kubectl history-substring-search last-working-dir)
+
+source $ZSH/oh-my-zsh.sh
 
 # starship
 
 eval "$(starship init zsh)"
+eval "$(pyenv init -)"
+
+# ohmyzsh
+
