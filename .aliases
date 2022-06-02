@@ -4,10 +4,12 @@ alias c=colima
 alias d=docker
 alias g=git
 alias k=kubectl
+alias l=less
 alias m=multipass
 alias o=open
 alias p=poetry
 alias s=subl
+alias t=tail
 alias v=vim
 
 ## 2
