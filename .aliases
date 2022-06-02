@@ -3,4 +3,6 @@ alias d=docker
 alias g=git
 alias k=kubectl
 alias o=open
+alias p=poetry
 alias s=subl
+alias v=vim
