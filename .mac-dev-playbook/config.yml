@@ -16,6 +16,7 @@ dotfiles_repo: https://github.com/deekim/dotfiles.git
 dotfiles_repo_accept_hostkey: yes
 dotfiles_repo_local_destination: ~/workspace/dotfiles
 dotfiles_files:
+  - .aliases
   - .zshrc
   - .gitignore
   - .inputrc
