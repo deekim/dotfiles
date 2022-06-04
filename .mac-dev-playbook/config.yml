@@ -73,6 +73,7 @@ homebrew_installed_packages:
   - zshrc
   - zsh-completions
   - parquet-tools
+  - bazelisk
 
 homebrew_taps:
   - homebrew/core
