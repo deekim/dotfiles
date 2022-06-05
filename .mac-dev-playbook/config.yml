@@ -74,6 +74,21 @@ homebrew_installed_packages:
   - zsh-completions
   - parquet-tools
   - bazelisk
+  - vault
+  - starship
+  - svn
+  - miller
+  - kubectl
+  - helm
+  - helmfile
+  - txn2/tap/kubefwd
+  - kubectx
+  - pyenv
+  - pyenv-virtualenv
+  - terraform
+  - jq
+  - yq
+  - tldr
 
 homebrew_taps:
   - homebrew/core
