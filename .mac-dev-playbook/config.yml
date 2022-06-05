@@ -85,23 +85,9 @@ homebrew_taps:
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - visual-studio-code
-  - webex-meetings
   - zoomus
-  - vlc
-  - obs
-  - github
-  - intellij-idea-ce
-  - chromedriver
-  - docker
-  - dropbox
-  - firefox
-  - google-chrome
-  - handbrake
-  - licecap
-  - sequel-pro
-  - slack
   - sublime-text
-  - transmit
+  - sublime-merge
   - vagrant
   - alfred
   - bartender
@@ -113,13 +99,19 @@ homebrew_cask_apps:
   - moom
   - gpg-suite
   - kap
-  - mactex
   - insomnia
   - virtualbox
   - xquartz
   - obsidian
-  - dash
   - stats
+  - deckset
+  - meetingbar
+  - zulu8
+  - font-fira-code
+  - font-fira-mono
+  - font-fira-mono-for-powerline
+  - font-fira-sans
+  - quitter
 
 # See `geerlingguy.mas` role documentation for usage instructions.
 mas_installed_apps: []
