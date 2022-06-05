@@ -81,6 +81,8 @@ homebrew_taps:
   - homebrew/cask-drivers
   - homebrew/bundle
   - homebrew/services
+  - homebrew/cask-versions
+  - homebrew/cask-fonts
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
