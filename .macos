@@ -30,7 +30,7 @@ defaults write NSGlobalDomain NSAutomaticQuoteSubstitutionEnabled -bool false
 defaults write NSGlobalDomain NSAutomaticDashSubstitutionEnabled -bool false
 
 # disable natural scrolling
-defaults write -g com.apple.swipescrolldirection -bool NO
+defaults write -g com.apple.swipescrolldirection -bool false
 
 # enable right click
 defaults write com.apple.driver.AppleBluetoothMultitouch.mouse MouseButtonMode TwoButton
