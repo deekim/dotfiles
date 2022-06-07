@@ -14,7 +14,7 @@ sudoers_custom_config: ''
 
 dotfiles_repo: https://github.com/deekim/dotfiles.git
 dotfiles_repo_accept_hostkey: yes
-dotfiles_repo_local_destination: ~/workspace/dotfiles
+dotfiles_repo_local_destination: ~/workspace/deekim/dotfiles
 dotfiles_files:
   - .aliases
   - .zshrc
