@@ -17,3 +17,7 @@ alias v=vim
 ### 3
 
 alias sql=sqlite3
+
+#### 4
+
+alias awsp="source _awsp"
