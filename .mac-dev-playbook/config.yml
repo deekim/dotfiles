@@ -115,7 +115,6 @@ homebrew_cask_apps:
   - iterm2
   - karabiner-elements
   - ticktick
-  - 1password
   - moom
   - gpg-suite
   - kap
