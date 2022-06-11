@@ -92,6 +92,8 @@ homebrew_installed_packages:
   - tldr
   - k9s
   - lastpass-cli
+  - watch
+  - fzf
 
 homebrew_taps:
   - homebrew/core
