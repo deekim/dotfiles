@@ -106,6 +106,7 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
+  - lastpass
   - visual-studio-code
   - zoomus
   - sublime-text
