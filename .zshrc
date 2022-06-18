@@ -1,3 +1,5 @@
+# interactive usage
+
 # Colors.
 unset LSCOLORS
 export CLICOLOR=1
