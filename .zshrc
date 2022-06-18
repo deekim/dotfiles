@@ -1,4 +1,11 @@
 # interactive usage
+# (read when interactive)
+#
+# usage examples:
+#
+# - prompt
+# - command completion
+# - aliases
 
 # Colors.
 unset LSCOLORS
@@ -66,4 +73,3 @@ source $ZSH/oh-my-zsh.sh
 
 eval "$(starship init zsh)"
 eval "$(pyenv init -)"
-
