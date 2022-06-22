@@ -95,6 +95,7 @@ homebrew_installed_packages:
   - lastpass-cli
   - watch
   - fzf
+  - postgresql
 
 homebrew_taps:
   - homebrew/core
