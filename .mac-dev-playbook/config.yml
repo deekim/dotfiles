@@ -26,7 +26,7 @@ dotfiles_files:
 
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
-  - snzip
+  - parquet-cli
   - awscli
   - fortune
   - autoconf
@@ -76,7 +76,6 @@ homebrew_installed_packages:
   - zplug
   - zshrc
   - zsh-completions
-  - parquet-tools
   - bazelisk
   - vault
   - starship
