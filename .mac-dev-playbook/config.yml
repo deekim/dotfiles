@@ -110,6 +110,7 @@ homebrew_taps:
 
 homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
+  - spotify
   - lastpass
   - visual-studio-code
   - zoomus
