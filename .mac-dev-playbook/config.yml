@@ -127,7 +127,7 @@ homebrew_cask_apps:
   - moom
   - gpg-suite
   - kap
-  - insomnia
+  - postman
   - virtualbox
   - xquartz
   - obsidian
