@@ -1,8 +1,12 @@
 [alias]
+  as = !git rebase -i --autosquash $(git merge-base master HEAD 2> /dev/null || git merge-base main HEAD)
+  
   # graph
   g = !"git log --graph --all --format=format:'%C(bold blue)%h%C(reset) - %C(bold green)(%ar)%C(reset) %C(white)%s%C(reset) %C(bold white)— %an%C(reset)%C(bold yellow)%d%C(reset)' --abbrev-commit --date=relative --color --date-order"
 
   co = checkout
+  
+  com = "!f() { git checkout main 2> /dev/null || git checkout master; }; f"
 
   # branch short name
   bs = !"git rev-parse --abbrev-ref HEAD"
