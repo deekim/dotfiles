@@ -93,6 +93,9 @@
   
   # Root git directory
   root = rev-parse --show-toplevel
+  
+  # Exec at root git directory
+  exec = "!exec "
 
   # Merge GitHub pull request on top of the current branch or,
   # if a branch name is specified, on top of the specified branch
