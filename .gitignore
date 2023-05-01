@@ -10,3 +10,7 @@ Desktop.ini
 pythonenv3.8
 .factorypath
 .venv/
+
+# Python
+## pyenv/pyenv
+.python-version
