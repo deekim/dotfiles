@@ -157,11 +157,11 @@
 [color "diff"]
 
   meta = 11
-  frag = magenta bold
-  old = red bold
-  new = green bold
-  func = 146 bold
-  commit = yellow bold
+  frag = magenta
+  old = red
+  new = green
+  func = 146
+  commit = yellow
   whitespace = red reverse
 
 [color "status"]
@@ -236,10 +236,10 @@
 [interactive]
 	diffFilter = diff-so-fancy --patch
 [color "diff-highlight"]
-	oldNormal = red bold
-	oldHighlight = red bold 52
-	newNormal = green bold
-	newHighlight = green bold 22
+	oldNormal = red
+	oldHighlight = red 52
+	newNormal = green
+	newHighlight = green 22
 [diff-so-fancy]
 	markEmptyLines = false
 	changeHunkIndicators = false
