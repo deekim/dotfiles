@@ -75,4 +75,4 @@ eval "$(starship init zsh)"
 eval "$(pyenv init -)"
 
 # [fx](https://github.com/antonmedv/fx)
-export FX_THEME=9
+export FX_THEME=4
