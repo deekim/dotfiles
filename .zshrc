@@ -73,3 +73,6 @@ source $ZSH/oh-my-zsh.sh
 
 eval "$(starship init zsh)"
 eval "$(pyenv init -)"
+
+# [fx](https://github.com/antonmedv/fx)
+export FX_THEME=9
