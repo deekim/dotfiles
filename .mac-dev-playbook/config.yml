@@ -26,6 +26,8 @@ dotfiles_files:
 
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
+  - docker
+  - colima
   - fx
   - cue-lang/tap/cue
   - hyperfine
