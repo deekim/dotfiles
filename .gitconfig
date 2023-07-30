@@ -1,4 +1,6 @@
 [alias]
+  wip = !git add . && git commit -am "wip"
+
   dm = !git diff main 2> /dev/null || git diff master
 
   as = !git rebase -i --autosquash $(git merge-base master HEAD 2> /dev/null || git merge-base main HEAD)
