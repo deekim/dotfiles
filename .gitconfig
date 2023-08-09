@@ -213,6 +213,10 @@
 [pull]
   rebase = true
 
+[rerere]
+  enabled = 1
+  autoupdate = 1
+
 # URL shorthands
 
 # [url "git@github.com:"]
