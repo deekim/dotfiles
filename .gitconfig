@@ -252,3 +252,5 @@
 	stripLeadingSymbols = false
 	useUnicodeRuler = false
 	rulerWidth = 47
+[mergetool]
+	keepBackup = false
