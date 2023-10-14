@@ -254,3 +254,5 @@
 	rulerWidth = 47
 [mergetool]
 	keepBackup = false
+[advice]
+	skippedCherryPicks = false
