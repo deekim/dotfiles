@@ -77,7 +77,7 @@ eval "$(pyenv init -)"
 # [fx](https://github.com/antonmedv/fx)
 export FX_THEME=4
 
-$ export PYENV_ROOT="$HOME/.pyenv"
+# export PYENV_ROOT="$HOME/.pyenv"
 # command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(pyenv virtualenv-init -)"
 eval "$(direnv hook zsh)"
