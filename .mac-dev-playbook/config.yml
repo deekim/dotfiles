@@ -26,6 +26,8 @@ dotfiles_files:
 
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
+  - ruby
+  - kdoctor
   - r
   - pre-commit
   - git-lfs
