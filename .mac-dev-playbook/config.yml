@@ -173,7 +173,8 @@ composer_packages: []
   # - name: drush
   #   state: present # present/absent, default: present
   #   version: "^8.1" # default: N/A
-gem_packages: []
+gem_packages:
+  - name: cocoapods
   # - name: bundler
   #   state: present # present/absent/latest, default: present
   #   version: "~> 1.15.1" # default: N/A
