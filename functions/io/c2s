@@ -1,0 +1,4 @@
+# CamelCase to snake_case
+c2s() {
+  pbpaste | sed 's/[[:upper:]]/_&/g;s/^_//' | tr '[:upper:]' '[:lower:]' | pbcopy
+}
