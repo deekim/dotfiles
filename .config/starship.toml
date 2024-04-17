@@ -10,4 +10,4 @@ format = 'at [$time]($style) '
 time_format = "%T"
 
 [aws.region_aliases]
-us-west-2 = "nuna"
+us-west-2 = "west"
