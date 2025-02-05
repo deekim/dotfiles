@@ -27,6 +27,7 @@ dotfiles_files:
 homebrew_installed_packages:
   # - ansible # Installed via Pip.
   - jid
+  - pandoc
   - mongosh
   - switchaudio-osx
   - zsh-history-substring-search
